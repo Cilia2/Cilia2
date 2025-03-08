@@ -6,7 +6,7 @@ I'm Cilia, a Computer Science student who loves coding <br>and problem-solving. 
 
 # 🚀 Featured Projects:
 ### [Padel Management System](https://github.com/Cilia2/Padel-Management-Project)
-A system designed to manage paddle business data, streamlining operations and enhancing user experience.  
+A system designed to manage padel business data, streamlining operations and enhancing user experience.  
 **Technologies used**: C++, MySQL, Java.
 
 # 📊 GitHub Stats:
