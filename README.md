@@ -15,11 +15,6 @@ A C++ application designed to streamline restaurant operations by efficiently ma
 
 **Technologies used**: C++...
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cilia2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cilia2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cilia2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 # 🛠️ Skills:
 ### Programming Languages:
 - C++
@@ -40,6 +35,12 @@ A C++ application designed to streamline restaurant operations by efficiently ma
 # 📬 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/cilia-attieh-bb0584351)
 - Email: attiehcilia@gmail.com
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cilia2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cilia2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cilia2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
