@@ -6,13 +6,34 @@ I'm Cilia, a Computer Science student who loves coding <br>and problem-solving. 
 
 # 🚀 Featured Projects:
 ### [Padel Management System](https://github.com/Cilia2/Padel-Management-Project)
-A system designed to manage padel business data, streamlining operations and enhancing user experience.  
+A system designed to manage padel business data, streamlining operations and enhancing user experience. 
 **Technologies used**: C++, MySQL, Java.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Cilia2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Cilia2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cilia2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 🛠️ Skills:
+### Programming Languages:
+- C++
+- Java
+- JavaScript
+- Python
+- Swift
+- Objective-C
+- HTML5
+
+### Other Skills:
+- Problem-solving
+- Algorithm Design & Analysis
+- Web Development (HTML, JavaScript, Node.js)
+- Database Management (MySQL, MongoDB)
+- Version Control (Git, GitHub)
+
+# 📬 Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/cilia-attieh-bb0584351)
+- Email: attiehcilia@gmail.com
 
 ---
 
